@@ -1,0 +1,64 @@
+body{
+    background-image: url("../images/BackGround.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+.self-portfolio{
+    text-align: center;
+    font: 30px bolder;
+}
+.profile-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.profile-name,a{
+    text-decoration: none;
+    color: black;
+}
+.profile-name,a:hover{
+    background-color: #50C7C7;
+    color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid black;
+}
+.self-introduction{
+    background-color: #50C7C7;
+}
+body,h3{
+    background-color: #50C7C7;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #000; 
+    padding: 8px;
+}
+
+table th {
+    background-color: #50C7C7; 
+}
+.applications-used {
+    color: black;
+    background-color: #50C7C7;
+    font-size: 20px;
+}
+.expertise-list {
+    list-style-type: square;
+}
+
+
+
+
+
